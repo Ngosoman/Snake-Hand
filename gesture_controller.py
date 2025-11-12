@@ -138,3 +138,4 @@ class GestureController:
         self.previous_position = None
         self.current_direction = None
         self.gesture_cooldown = 0
+        
