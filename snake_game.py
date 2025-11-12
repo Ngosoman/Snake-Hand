@@ -3,6 +3,7 @@ Nokia Snake Game Implementation
 Classic snake game with Nokia-style graphics and mechanics
 """
 
+
 import pygame
 import random
 import math
